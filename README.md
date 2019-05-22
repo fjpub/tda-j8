@@ -1,5 +1,4 @@
-# tda-j8
-A Type-Directed Algorithm to Generate Random Well-Typed Java 8 Programs
+# A Type-Directed Algorithm to Generate Random Well-Typed Java 8 Programs
 Authors: Samuel Feitosa, Rodrigo Ribeiro, Andre Du Bois
 # Interpreters and test suite 
 
