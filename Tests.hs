@@ -230,6 +230,6 @@ prop_compile =
 -----------------------------------------------------------------
 return []
 main = $forAllProperties $
-         quickCheckWithResult (stdArgs { maxSuccess = 10000 })
+         quickCheckWithResult (stdArgs { maxSuccess = 1000 })
 
 
